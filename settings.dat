@@ -1,0 +1,11 @@
+{
+    "footfall_mapping": [
+        { "isActive": true, "intervals": [{ "footfall": "GREEN", "begin": "09:00", "end": "17:00" }] },
+        { "isActive": true, "intervals": [{ "footfall": "GREEN", "begin": "09:00", "end": "17:00" }] },
+        { "isActive": true, "intervals": [{ "footfall": "GREEN", "begin": "09:00", "end": "17:00" }] },
+        { "isActive": true, "intervals": [{ "footfall": "GREEN", "begin": "09:00", "end": "17:00" }] },
+        { "isActive": true, "intervals": [{ "footfall": "GREEN", "begin": "09:00", "end": "17:00" }] },
+        { "isActive": true, "intervals": [{ "footfall": "GREEN", "begin": "09:00", "end": "17:00" }] },
+        { "isActive": true, "intervals": [{ "footfall": "GREEN", "begin": "09:00", "end": "17:00" }] }
+    ]
+}
